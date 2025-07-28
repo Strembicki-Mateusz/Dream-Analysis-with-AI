@@ -1,0 +1,17 @@
+pandas
+numpy
+nltk
+spacy
+textblob
+matplotlib
+seaborn
+wordcloud
+plotly
+scikit-learn
+transformers
+sentence-transformers
+bertopic
+langdetect
+beautifulsoup4
+jinja2
+streamlit
