@@ -1,2 +1,2 @@
 # Dream-Analysis-with-AI
-Self-improvement project according to learning Data Science skills
+Self-improvement project to learned Data Science skills
